@@ -1,0 +1,7 @@
+{
+  "name": "LifeSync Hub",
+  "description": "An elegant application for managing tasks, appointments, and expenses. It allows individuals to organize their lives and synchronize shared events with partners or family through a simple QR code linking system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
